@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Khaled Gamal</h1>
+<h3 align="center">Future SOC Analyst | Cyber Security Enthusiast 🔐</h3>
 
-<!--
-**khaledgamal123h/khaledgamal123h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me:
+- 🎓 Computer Science Student  
+- 🔐 Passionate about Cyber Security  
+- 🚀 Learning SOC & SIEM  
+- 💻 Love working with networks & security tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack:
+
+#### 🔧 Tools:
+![Wireshark](https://img.shields.io/badge/-Wireshark-blue)
+![Linux](https://img.shields.io/badge/-Linux-yellow)
+![Splunk](https://img.shields.io/badge/-Splunk-black)
+
+#### 💻 Programming:
+![Python](https://img.shields.io/badge/-Python-blue)
+![C++](https://img.shields.io/badge/-C++-blue)
+![SQL](https://img.shields.io/badge/-SQL-orange)
+
+---
+
+### 📫 Contact Me:
+- 📧 khaledgamal123h@gmail.com  
+- 📱 WhatsApp: 01029259556  
+
+---
+
+### 📊 GitHub Stats:
+![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaledgamal123h&show_icons=true&theme=dark)
